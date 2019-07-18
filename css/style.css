@@ -192,6 +192,7 @@ li.nav-item a:visited {
   margin-bottom: -2.53%;
 }
 
-.odkaz {
-  color: rgb(226, 144, 158);
+.zahlavi {
+  width: 8%;
+  border-radius: 150%;
 }
