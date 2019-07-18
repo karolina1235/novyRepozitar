@@ -190,9 +190,21 @@ li.nav-item a:visited {
 
 .dum {
   margin-bottom: -2.53%;
+  width:50px;
 }
 
 .zahlavi {
   width: 8%;
   border-radius: 150%;
+}
+
+button:hover {
+  transition: 0.3s ease;
+  font-size: 1.1em;
+  
+}
+
+.dum:hover {
+  transition: 0.6s ease;
+  width: 65px;
 }
