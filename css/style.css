@@ -54,6 +54,7 @@ span {
   border-radius: 100%;
   height: 15em;
   width: 15em;
+  color: blue;
 }
 
 *{
@@ -127,10 +128,6 @@ li.nav-item a:link {
 li.nav-item a:visited {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
-
-.btn-muj {
-  background-color: #fff5e6;
 }
 
 .mujNavbar {
@@ -139,4 +136,8 @@ li.nav-item a:visited {
 
 .exmaly {
   width: 200px;
+}
+
+.btn-muj {
+  color: blue;
 }
